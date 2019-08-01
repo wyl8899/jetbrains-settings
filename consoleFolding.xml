@@ -1,0 +1,9 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="mu.lab.now W/System.err:     at java.lang.Thread.run(Thread.java:761)" />
+      </list>
+    </option>
+  </component>
+</application>

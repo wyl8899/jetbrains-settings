@@ -1,0 +1,1154 @@
+<application>
+  <component name="libraryTable">
+    <library name="jquery-2.2.4" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.2.4.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.2.4.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-3.2.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.2.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.2.1.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="Python 2.7 (kinetic) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/site-packages" />
+        <root url="jar:///usr/local/lib/python2.7/dist-packages/oauth2client-4.0.0-py2.7.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages/httplib2-0.9.2-py2.7.egg" />
+        <root url="jar:///usr/local/lib/python2.7/dist-packages/gdata-2.0.18-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/dist-packages/rsa-3.4.2-py2.7.egg!/" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1697930629" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+        <root url="file:///opt/ros/kinetic/lib/python2.7/dist-packages" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/site-packages" />
+        <root url="jar:///usr/local/lib/python2.7/dist-packages/oauth2client-4.0.0-py2.7.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages/httplib2-0.9.2-py2.7.egg" />
+        <root url="jar:///usr/local/lib/python2.7/dist-packages/gdata-2.0.18-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/dist-packages/rsa-3.4.2-py2.7.egg!/" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1697930629" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+        <root url="file:///opt/ros/kinetic/lib/python2.7/dist-packages" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (kinetic) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/site-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/site-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (kinetic) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1697930629" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1697930629" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (kinetic) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1697930629" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1697930629" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (kinetic) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1697930629" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1697930629" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (kinetic) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1697930629" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/kinetic/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1697930629" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/msd/msd_controller/catkin_ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/msd/msd_controller/catkin_ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/msd/msd_controller/catkin_ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/msd/msd_controller/catkin_ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/msd/msd_controller/catkin_ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/msd/msd_controller/catkin_ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (pilot) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/momenta/m2/ws/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/pilot/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk3" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1993998468" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.5.2 (~/.pyenv/versions/3.5.2/bin/python) interpreter library">
+      <CLASSES>
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/plat-linux" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/35326454" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/ros/melodic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/plat-linux" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/35326454" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
