@@ -2,16 +2,14 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="buildtest" type="PLAIN_TEXT" />
-      <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping pattern="diag" type="PLAIN_TEXT" />
-      <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="testing" type="PLAIN_TEXT" />
+      <mapping pattern="buildtest" type="PLAIN_TEXT" />
+      <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping ext="tp" type="PLAIN_TEXT" />
+      <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="tp" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
